@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+  },
+  "result": "minecraft:iron_nugget"
+}

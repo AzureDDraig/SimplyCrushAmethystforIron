@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "1": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "2": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "3": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "4": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "5": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "6": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "7": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    },
+    "8": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    }
+  },
+  "result": {
+    "item": "simply_crush_amethyst_for_iron:large_amethyst_pile",
+    "count": 1
+  }
+}
