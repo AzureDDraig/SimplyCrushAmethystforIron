@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "simply_crush_amethyst_for_iron:mortar_and_pestle"
+    },
+    "1": {
+      "item": "simply_crush_amethyst_for_iron:small_amethyst_pile"
+    }
+  },
+  "result": {
+    "item": "simply_crush_amethyst_for_iron:small_amethyst_pile",
+    "count": 2
+  }
+}

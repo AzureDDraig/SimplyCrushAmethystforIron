@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="GNU Lesser General Public License version 2.1 (LGPLv2.1)"
+
+[[mods]]
+modId="simply_crush_amethyst_for_iron"
+version="1.0.0"
+displayName="Simply Crush Amethyst for Iron"
+credits="Azureddraig"
+displayURL="https://discord.gg/XAp9p9PNxN"
+authors="Azureddraig"
+description="Crush Amethyst, smelt the dust, and get iron"
+
+[[dependencies.simply_crush_amethyst_for_iron]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
